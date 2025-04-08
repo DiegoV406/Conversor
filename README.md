@@ -1,3 +1,11 @@
+<div align="center">
+
+![Badge-Conversor](https://github.com/user-attachments/assets/0689a0d8-063b-489d-9319-65c50638be24)
+
+</div>
+
+
+
 # 💱 Conversor de Moedas em Java 
 
 📦 Projeto simples em **Java** que permite converter moedas usando a **ExchangeRate-API** como base de dados de câmbio e a biblioteca **Gson** para manipulação de JSON.
